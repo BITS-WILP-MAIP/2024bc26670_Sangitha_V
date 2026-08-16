@@ -1,0 +1,7 @@
+streamlit>=1.38
+pandas>=2.0
+plotly>=5.20
+pyyaml>=6.0
+pytest>=8.0
+anthropic>=0.40      # optional Phase 2 preview only — core Phase 1 pages never import this
+python-dotenv>=1.0   # optional: loads ANTHROPIC_API_KEY from mvp1/.env if present
