@@ -1,6 +1,0 @@
-drug_a,drug_b,severity,explanation
-WARFARIN SODIUM,ASPIRIN,high,Both affect clotting. The combination increases bleeding risk.
-WARFARIN SODIUM,IBUPROFEN,high,NSAIDs can increase bleeding risk and change INR when combined with warfarin.
-LISINOPRIL,IBUPROFEN,moderate,NSAIDs may reduce blood pressure control and affect kidney function when taken with ACE inhibitors.
-AMLODIPINE,ATORVASTATIN,moderate,This combination can increase statin levels in the blood and may require dose review.
-ASPIRIN,IBUPROFEN,low,Regular concurrent use can reduce aspirin's cardiovascular protective effect and add GI irritation risk.
