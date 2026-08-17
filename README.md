@@ -22,6 +22,14 @@ decision here is in `02_Final_Report.pdf`.
 | `MVP1/` | The working prototype — see below |
 | `Appendix/` | PRD, wireframes, metrics framework, roadmap, risk note, architecture diagram, and screenshots of the running app |
 
+## Architecture
+
+<img src="Appendix/mvp1_system_architecture.png" alt="MVP 1 system architecture diagram" width="800">
+
+Presentation, business-logic, and data layers, with the safety-routing branch and the Phase 2 AI
+layer shown as a separate, opt-in panel — see Section 4 of `02_Final_Report.pdf` for the full
+write-up.
+
 ## Running the prototype
 
 ```bash
